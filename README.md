@@ -1,5 +1,7 @@
 # Marshall
-## Street planning for the Marshall traffic, along [this stretch](http://umap.openstreetmap.fr/en/map/marshall-street-planning_607330 ) of Highway One.
+## Street planning for the Marshall traffic.
+
+The primary concern is [this stretch](http://umap.openstreetmap.fr/en/map/marshall-street-planning_607330 ) of Highway One; this is a map that has overlays and annotations that we can edit.
 
 ## Resources
 
@@ -14,5 +16,3 @@ Some example documents on street planning and traffic calming:
 * [Traffic Calming for High-Speed Rural Roadways](https://www.lrrb.org/pdf/TRS0801.pdf)
 
 * [Rural community traffic calming](https://www.ca-ilg.org/sites/main/files/file-attachments/fhwa_traffic_calming_on_main_roads_through_rural_communities.pdf)
-
-
