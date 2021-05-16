@@ -48,6 +48,10 @@ Overall: the suitable use of an effective amount of signage and road marking tha
 3. Refine the Concerns, Goals, Ideas
 4. Then meet with Caltrans and other appropriate officials to get their ideas, plans, and timelines.
 
+## Images
+
+![At Hog Island looking north](https://github.com/dwsinger/Marshall/blob/main/Hog_Island_looking_north.jpeg)
+
 ## Resources
 
 The proposed sign improvement plan is [uploaded](https://github.com/dwsinger/Marshall/blob/main/Proposed%20Sign%20Improvement%20Plan.pdf).
