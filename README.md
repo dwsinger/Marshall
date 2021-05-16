@@ -56,7 +56,7 @@ Overall: the suitable use of an effective amount of signage and road marking tha
 
 1. Caltrans proposed signage plan
 
-![uploaded](https://github.com/dwsinger/Marshall/blob/main/Proposed%20Sign%20Improvement%20Plan.pdf)
+![Caltrans sign improvement plan](https://github.com/dwsinger/Marshall/blob/main/Proposed_Sign_Improvement_Plan.jpg)
 
 ## Resources
 
