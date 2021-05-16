@@ -60,7 +60,7 @@ Overall: the suitable use of an effective amount of signage and road marking tha
 
 ## Resources
 
-The proposed sign improvement plan is [uploaded](https://github.com/dwsinger/Marshall/blob/main/Proposed%20Sign%20Improvement%20Plan.pdf).
+The proposed sign improvement plan is [uploaded](https://github.com/dwsinger/Marshall/blob/main/Proposed%20Sign%20Improvement%20Plan.pdf) in PDF form.
 
 Some example documents on street planning and traffic calming:
 
