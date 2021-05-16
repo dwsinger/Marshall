@@ -64,7 +64,7 @@ The proposed sign improvement plan is [uploaded](https://github.com/dwsinger/Mar
 
 Some example documents on street planning and traffic calming:
 
-* [Wikipedia Traffic Calimg](https://en.wikipedia.org/wiki/Traffic_calming)
+* [Wikipedia Traffic Calming](https://en.wikipedia.org/wiki/Traffic_calming)
 
 * [Rural road traffic calming](https://www.pavementsurfacecoatings.com/wp-content/uploads/2019/12/Documents/traffic-calming-rural-areas.pdf)
 
