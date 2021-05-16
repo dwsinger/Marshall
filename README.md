@@ -35,7 +35,7 @@ Overall: the suitable use of an effective amount of signage and road marking tha
    * at the north end of the Hog Island parking
    * other places where people park both side on Highway One (e.g. Nick's Cove?)
 10. Consider center-of road plastic flexible poles at the pedestrian crossings
-11. Consider edge-of-road plastic flexible poles on the road-edge white line in places where pedestrians typically walk along
+11. Consider edge-of-road plastic flexible poles on the road-edge white line in places where pedestrians typically walk
    * by Hog Island Oysters west-side parking (outside their building)
    * by the Marshall store (both north and south)
 12. Better separate cyclists, pedestrians, and motor vehicles by suitable markings (e.g. pedestrian or cycle lanes).
