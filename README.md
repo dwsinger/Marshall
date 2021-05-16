@@ -52,11 +52,11 @@ Overall: the suitable use of an effective amount of signage and road marking tha
 
 1. At Hog Island Oysters looking north
 
-![At Hog Island looking north](https://github.com/dwsinger/Marshall/blob/main/Hog_Island_looking_north.jpeg)
+   ![At Hog Island looking north](https://github.com/dwsinger/Marshall/blob/main/Hog_Island_looking_north.jpeg)
 
 1. Caltrans proposed signage plan
 
-![Caltrans sign improvement plan](https://github.com/dwsinger/Marshall/blob/main/Proposed_Sign_Improvement_Plan.jpg)
+   ![Caltrans sign improvement plan](https://github.com/dwsinger/Marshall/blob/main/Proposed_Sign_Improvement_Plan.jpg)
 
 ## Resources
 
