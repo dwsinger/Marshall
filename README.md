@@ -1,15 +1,15 @@
 # Marshall
 ## Street planning for the Marshall traffic.
 
-The primary concern the stretch of Highway One from just north of the Marshall Petaluma road junction, to Tony's; [this is a map](http://umap.openstreetmap.fr/en/map/marshall-street-planning_607330 ) that has overlays and annotations that we can edit.
+The primary concern is the stretch of Highway One from just north of the Marshall Petaluma road junction, south to Tony's; [this is a map](http://umap.openstreetmap.fr/en/map/marshall-street-planning_607330 ) that has overlays and annotations that we can edit.
 
 ## Concerns
 
 The primary concern is that all — drivers, cyclists, pedestrians — should have a safe and pleasant experience.
 
 Specific concerns:
-1. The Marshall-Petaluma road junction is invisible around a bend as drivers approach from the south, and some speed up as they perceive that they have passed Hog Island.
-2. There is a lot of parking, people backing into the roadway, and walking along the roadway to/from parked cars, around the main commercial establishments: Hog Island Oysters, Marshall Store, and Tony's. (Also at Nick's, out of this area). (We hear that the dangerous queuing along the road at the Marshall Store will soon be fixed.)
+1. The Marshall-Petaluma road junction is invisible around a bend as drivers approach from the south, and some speed up as they perceive that they have passed Hog Island. (See photo below).
+2. There is a lot of parking, cars backing into the roadway, and pedestrians walking along the roadway to/from parked cars, around the main commercial establishments: Hog Island Oysters, Marshall Store, and Tony's. (Also at Nick's, out of this area). (We hear that the dangerous pedestrian queuing along the road to shop at the Marshall Store will soon be fixed.)
 3. Some of the 'danger areas' appear after long apparently-empty straight stretches and gentle bends (notably approaching Marshall Store from the south).
 
 ## Goals
@@ -36,7 +36,7 @@ Overall: the suitable use of an effective amount of signage and road marking tha
    * other places where people park both side on Highway One (e.g. Nick's Cove?)
 10. Consider center-of road plastic flexible poles at the pedestrian crossings
 11. Consider edge-of-road plastic flexible poles on the road-edge white line in places where pedestrians typically walk along
-   * by Hog Island parking
+   * by Hog Island Oysters west-side parking (outside their building)
    * by the Marshall store (both north and south)
 12. Better separate cyclists, pedestrians, and motor vehicles by suitable markings (e.g. pedestrian or cycle lanes).
 13. Cause motor vehicles to slow down by giving the perception of a narrowing in the driving lanes.
@@ -50,7 +50,13 @@ Overall: the suitable use of an effective amount of signage and road marking tha
 
 ## Images
 
+1. At Hog Island Oysters looking north
+
 ![At Hog Island looking north](https://github.com/dwsinger/Marshall/blob/main/Hog_Island_looking_north.jpeg)
+
+1. Caltrans proposed signage plan
+
+![uploaded](https://github.com/dwsinger/Marshall/blob/main/Proposed%20Sign%20Improvement%20Plan.pdf)
 
 ## Resources
 
