@@ -54,7 +54,7 @@ Overall: the suitable use of an effective amount of signage and road marking tha
 
    ![At Hog Island looking north](https://github.com/dwsinger/Marshall/blob/main/Hog_Island_looking_north.jpeg)
 
-1. Caltrans proposed signage plan
+1. Caltrans proposed signage plan. The [California Sign Specification Drawings index](https://dot.ca.gov/programs/safety-programs/sign-specs) may be helpful in interpreting the markings.
 
    ![Caltrans sign improvement plan](https://github.com/dwsinger/Marshall/blob/main/Proposed_Sign_Improvement_Plan.jpg)
 
