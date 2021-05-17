@@ -54,7 +54,11 @@ Overall: the suitable use of an effective amount of signage and road marking tha
 
    ![At Hog Island looking north](https://github.com/dwsinger/Marshall/blob/main/Hog_Island_looking_north.jpeg)
 
-1. Caltrans proposed signage plan. The [California Sign Specification Drawings index](https://dot.ca.gov/programs/safety-programs/sign-specs) may be helpful in interpreting the markings.
+1. Caltrans proposed signage plan. These may be helpful in interpreting the labels:
+   * The [California Sign Specification Drawings index](https://dot.ca.gov/programs/safety-programs/sign-specs) 
+   * The [Manual of Traffic signs W1-series](http://www.trafficsign.us/w1.html) for W1-1a, W1-6
+   * The [Cross-reference of MUTCD and CA codes](https://dot.ca.gov/-/media/dot-media/programs/safety-programs/documents/signs/f0018708-2010crossref-warn-mutcd-a11y.pdf) for W2-2
+   * The [Manual of Traffic Signs W16-series](http://www.trafficsign.us/w16.html) for W16-2ap
 
    ![Caltrans sign improvement plan](https://github.com/dwsinger/Marshall/blob/main/Proposed_Sign_Improvement_Plan.jpg)
 
