@@ -3,6 +3,8 @@
 
 The primary concern is the stretch of Highway One from just north of the Marshall Petaluma road junction, south to Tony's; [this is a map](http://umap.openstreetmap.fr/en/map/marshall-street-planning_607330 ) that has overlays and annotations that we can edit.
 
+Consider extending the area of primary concern to south of the 35 MPH zone by the Marconi boat launch area.
+
 ## Concerns
 
 The primary concern is that all — drivers, cyclists, pedestrians — should have a safe and pleasant experience. Some of the 'danger areas' where these populations mix appear after long apparently-empty straight stretches and gentle bends (notably approaching Marshall Store from the south).
