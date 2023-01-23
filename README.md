@@ -64,6 +64,10 @@ Overall: the suitable use of an effective amount of signage and road marking tha
 1. At Hog Island Oysters looking north
 
    ![At Hog Island looking north](https://github.com/dwsinger/Marshall/blob/main/Hog_Island_looking_north.jpeg)
+   
+1. The collapsing road edge south of the Marshall Store.
+
+   ![Collapsing road edge](https://github.com/dwsinger/Marshall/blob/main/image_50441985.jpeg)
 
 1. Caltrans proposed signage plan. These may be helpful in interpreting the labels:
    * The [California Sign Specification Drawings index](https://dot.ca.gov/programs/safety-programs/sign-specs) 
