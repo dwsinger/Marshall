@@ -14,6 +14,8 @@ Specific concerns:
 2. There is a lot of parking, cars backing into the roadway, and pedestrians walking along the roadway to/from parked cars, around the main commercial establishments: Hog Island Oysters, Marshall Store, and Tony's. (Also at Nick's, out of this area).
 4. High vehicle speed is a key safety issue; large trucks have been seen going up to 60 mph by Marshall in the mornings and during the day.
 
+A separate issue is that the road edge is collapsing (topsoil erosion) along a stretch of Highway One south of the Marshall store (see [map](http://umap.openstreetmap.fr/en/map/marshall-street-planning_607330 ) for marker).
+
 ## Goals
 
 1. Cause drivers to pay more attention and take more care, and slow down.
@@ -49,7 +51,6 @@ Overall: the suitable use of an effective amount of signage and road marking tha
    * by the Marshall store (both north and south)
 13. Better separate cyclists, pedestrians, and motor vehicles by suitable markings (e.g. pedestrian or cycle lanes).
 14. Cause motor vehicles to slow down by giving the perception of a narrowing in the driving lanes.
-15. There is up to a one-foot drop from the road to the parking along the road by the Marshall store; this makes the parking hazardous. Can this be addressed?
 
 ## Next steps
 
