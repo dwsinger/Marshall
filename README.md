@@ -33,13 +33,13 @@ Overall: the suitable use of an effective amount of signage and road marking tha
 1. Improve the white-line edge-striping so that it's visible. In some parts (e.g. past Hog Island parking) it has worn away completely.
 2. Replace the missing LED display 'your speed' as you approach the Marshall-Petaluma (MP) road junction from the north.
 3. Keep the grass mowed on the MP junction corner to ensure that drivers exiting the MP road can see. 
-4. The hillside vegetation opposite Hog Island on the highway blocks vision going north, and should be trimmed regularly.  Who is responsible?
-5. Install white stripes across the road, with decreasing spacing, to induce drivers to slow down
+4. The hillside vegetation opposite Hog Island on the highway blocks vision going north, and should be trimmed regularly.  We think Caltrans is responsible, though it's possible we can ask for help.
+5. Install white stripes across the road, with decreasing spacing, to induce drivers to slow down (visual, not audible, 'rumble strips')
    * approaching the MP junction after rounding the last bend
    * approaching the Marshall Store/Post Office area
 6. Install signs "Pedestrians in Roadway Next 1 Mile" at those same two locations
 7. Install a sign "Blind Intersection" just south of the MP junction, facing south
-8. Move the "T" sign at that location more visible (see image below)
+8. Move the "T" sign at that location so it is more visible (see image below)
 9. Fix the broken signs (e.g. the posts opposite the MP junction have been driven into and are broken)
 10. Consider pedestrian crosswalks, partly to convince drivers to slow:
    * at the north end of the Hog Island parking, as people park both sides there;
@@ -49,7 +49,7 @@ Overall: the suitable use of an effective amount of signage and road marking tha
 12. Consider edge-of-road plastic flexible poles on the road-edge white line in places where pedestrians typically walk
    * by Hog Island Oysters west-side parking (outside their building)
    * by the Marshall store (both north and south)
-13. Better separate cyclists, pedestrians, and motor vehicles by suitable markings (e.g. pedestrian or cycle lanes).
+13. Better separate cyclists, pedestrians, and motor vehicles by suitable markings (e.g. pedestrian or cycle lanes where space is available).
 14. Cause motor vehicles to slow down by giving the perception of a narrowing in the driving lanes.
 
 ## Next steps
