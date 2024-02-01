@@ -44,7 +44,7 @@ Overall: the suitable use of an effective amount of signage and road marking tha
 10. Consider pedestrian crosswalks, partly to convince drivers to slow:
    * at the north end of the Hog Island parking, as people park both sides there;
    * other places where people park both side on Highway One (e.g. Nick's Cove?);
-   * other places where we want to give drivers a visual clue that there are pedestrians – notably Marshall Store, Tony's Seafood.
+   * other places where we want to give drivers a visual clue that there are pedestrians – notably Tony's Seafood.
 11. Consider center-of road plastic flexible poles at the pedestrian crossings
 12. Consider edge-of-road plastic flexible poles on the road-edge white line in places where pedestrians typically walk
    * by Hog Island Oysters west-side parking (outside their building)
