@@ -3,54 +3,39 @@
 
 The primary concern is the stretch of Highway One from just north of the Marshall Petaluma road junction, south to Tony's; [this is a map](http://umap.openstreetmap.fr/en/map/marshall-street-planning_607330 ) that has overlays and annotations that we can edit.
 
-Consider extending the area of primary concern to south of the 35 MPH zone by the Marconi boat launch area.
-
-## Concerns
-
-The primary concern is that all — drivers, cyclists, pedestrians — should have a safe and pleasant experience. Some of the 'danger areas' where these populations mix appear after long apparently-empty straight stretches and gentle bends (notably approaching Marshall Store from the south).
-
-Specific concerns:
-1. The Marshall-Petaluma road junction is invisible around a bend as drivers approach from the south, and some speed up as they perceive that they have passed Hog Island. (See photo below).
-2. There is a lot of parking, cars backing into the roadway, and pedestrians walking along the roadway to/from parked cars, around the main commercial establishments: Hog Island Oysters, Marshall Store, and Tony's. (Also at Nick's, out of this area).
-4. High vehicle speed is a key safety issue; large trucks have been seen going up to 60 mph by Marshall in the mornings and during the day.
-
-A separate issue is that the road edge is collapsing (topsoil erosion) along a stretch of Highway One south of the Marshall store (see [map](http://umap.openstreetmap.fr/en/map/marshall-street-planning_607330 ) for marker).
+Consider extending the area of primary concern to south of the 35 MPH zone by the Marconi boat launch area, and north to Nick's.
 
 ## Goals
 
 1. Cause drivers to pay more attention and take more care, and slow down.
 2. Enable cyclists and pedestrians to use the road while staying in their own safe(r) areas.
 
+## Concerns
+
+The primary concern is that all — drivers, cyclists, pedestrians — should have a safe and pleasant experience. Some of the 'danger areas' where these populations mix appear after long apparently-empty straight stretches and gentle bends (notably approaching Marshall Store from the south).
+
+We seek suitable use of an effective amount of signage and road marking that will achieve improvement. We are aware that if signage gets excessive, drivers stop paying attention.
+
+Specific concerns (click on an issue number for more detail and any followup):
+
+## Specific ideas and issues
+
+
+[#1](https://github.com/dwsinger/Marshall/issues/1). the road edge is collapsing (topsoil erosion) along a stretch of Highway One south of the Marshall store (see [map](http://umap.openstreetmap.fr/en/map/marshall-street-planning_607330 ) for marker).
+
+[#2](https://github.com/dwsinger/Marshall/issues/2) The Marshall-Petaluma road junction is invisible around a bend as drivers approach from the south, and some speed up as they perceive that they have passed Hog Island. (See photo below and in the issue). See also [#9](https://github.com/dwsinger/Marshall/issues/9) (consider a sign "Blind Intersection" just south of the MP junction, facing south) `maintenance`
+
+[#3](https://github.com/dwsinger/Marshall/issues/3) There is a lot of parking, cars backing into the roadway, and pedestrians walking along the roadway to/from parked cars, around the main commercial establishments: Hog Island Oysters, Marshall Store, and Tony's. (Also at Nick's, out of this area). See [#8](https://github.com/dwsinger/Marshall/issues/8) (signs "Pedestrians in Roadway Next 1 Mile") and [#10](https://github.com/dwsinger/Marshall/issues/10) (pedestrian crosswalks)
+
+[#4](https://github.com/dwsinger/Marshall/issues/4) High vehicle speed is a key safety issue; large trucks have been seen going up to 60 mph by Marshall in the mornings and during the day. See [#7](https://github.com/dwsinger/Marshall/issues/7) (visual rumble strips) and [#12](https://github.com/dwsinger/Marshall/issues/12) (traffic calming)
+
+[#5](https://github.com/dwsinger/Marshall/issues/5) Improve the white-line edge-striping so that it's visible. In some parts (e.g. past Hog Island parking) it has worn away completely. `maintenance`
+
+[#6](https://github.com/dwsinger/Marshall/issues/6) Replace the missing LED display 'your speed' as you approach the Marshall-Petaluma (MP) road junction from the north.
+
 ## Action the community is taking
 
-1. The dangerous pedestrian queuing along the road to shop at the Marshall Store will soon be improved, through moving seating indoors etc.
-2. Marshall Store nonetheless also uses rope to separate people lining up, from the roadway.
-
-## Ideas
-
-Overall: the suitable use of an effective amount of signage and road marking that will achieve the goals. We are aware that if signage gets excessive, drivers stop paying attention.
-
-1. Improve the white-line edge-striping so that it's visible. In some parts (e.g. past Hog Island parking) it has worn away completely.
-2. Replace the missing LED display 'your speed' as you approach the Marshall-Petaluma (MP) road junction from the north.
-3. Keep the grass mowed on the MP junction corner to ensure that drivers exiting the MP road can see. 
-4. The hillside vegetation opposite Hog Island on the highway blocks vision going north, and should be trimmed regularly.  We think Caltrans is responsible, though it's possible we can ask for help.
-5. Install white stripes across the road, with decreasing spacing, to induce drivers to slow down (visual, not audible, 'rumble strips')
-   * approaching the MP junction after rounding the last bend
-   * approaching the Marshall Store/Post Office area
-6. Install signs "Pedestrians in Roadway Next 1 Mile" at those same two locations
-7. Install a sign "Blind Intersection" just south of the MP junction, facing south
-8. Move the "T" sign at that location so it is more visible (see image below)
-9. Fix the broken signs (e.g. the posts opposite the MP junction have been driven into and are broken)
-10. Consider pedestrian crosswalks, partly to convince drivers to slow:
-   * at the north end of the Hog Island parking, as people park both sides there;
-   * other places where people park both side on Highway One (e.g. Nick's Cove?);
-   * other places where we want to give drivers a visual clue that there are pedestrians – notably Tony's Seafood.
-11. Consider center-of road plastic flexible poles at the pedestrian crossings
-12. Consider edge-of-road plastic flexible poles on the road-edge white line in places where pedestrians typically walk
-   * by Hog Island Oysters west-side parking (outside their building)
-   * by the Marshall store (both north and south)
-13. Better separate cyclists, pedestrians, and motor vehicles by suitable markings (e.g. pedestrian or cycle lanes where space is available).
-14. Cause motor vehicles to slow down by giving the perception of a narrowing in the driving lanes.
+1. The dangerous pedestrian queuing along the road to shop at the Marshall Store has been improved, through moving seating indoors etc.
 
 ## Next steps
 
@@ -64,6 +49,10 @@ Overall: the suitable use of an effective amount of signage and road marking tha
 1. At Hog Island Oysters looking north
 
    ![At Hog Island looking north](https://github.com/dwsinger/Marshall/blob/main/Hog_Island_looking_north.jpeg)
+
+1. The mnissing speed indicator approaching the Marshall-Petaluma junction southbound.
+
+   ![Marshall-Petaluma road speed sign](https://github.com/dwsinger/Marshall/blob/main/MPRoad_speed_sign.jpeg)
    
 1. The collapsing road edge south of the Marshall Store.
 
