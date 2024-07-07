@@ -1,7 +1,7 @@
 # Marshall
 ## Street planning for the Marshall traffic.
 
-The primary concern is the stretch of Highway One from just north of the Marshall Petaluma road junction, south to Tony's; [this is a map](http://umap.openstreetmap.fr/en/map/marshall-street-planning_607330 ) that has overlays and annotations that we can edit.
+The primary concern is the stretch of Highway One from just north of the Marshall Petaluma road junction, south to Tony's; [this is a map that works sometimes](http://umap.openstreetmap.fr/en/map/marshall-street-planning_607330 ) that has overlays and annotations that we can edit.
 
 Consider extending the area of primary concern to south of the 35 MPH zone by the Marconi boat launch area, and north to Nick's.
 
