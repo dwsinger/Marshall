@@ -25,13 +25,13 @@ Specific concerns (click on an issue number for more detail and any followup):
 
 [#2](https://github.com/dwsinger/Marshall/issues/2) The Marshall-Petaluma road junction is invisible around a bend as drivers approach from the south, and some speed up as they perceive that they have passed Hog Island. (See photo below and in the issue). See also [#9](https://github.com/dwsinger/Marshall/issues/9) (consider a sign "Blind Intersection" just south of the MP junction, facing south) `maintenance`
 
-[#3](https://github.com/dwsinger/Marshall/issues/3) There is a lot of parking, cars backing into the roadway, and pedestrians walking along the roadway to/from parked cars, around the main commercial establishments: Hog Island Oysters, Marshall Store, and Tony's. (Also at Nick's, out of this area). See [#8](https://github.com/dwsinger/Marshall/issues/8) (signs "Pedestrians in Roadway Next 1 Mile") and [#10](https://github.com/dwsinger/Marshall/issues/10) (pedestrian crosswalks)
+[#3](https://github.com/dwsinger/Marshall/issues/3) There is a lot of parking, cars backing into the roadway, and pedestrians walking along the roadway to/from parked cars, around the main commercial establishments: Hog Island Oysters, Marshall Store, and Tony's. (Also at Nick's, out of this area). See [#8](https://github.com/dwsinger/Marshall/issues/8) (signs "Pedestrians in Roadway Next 1 Mile" `enhancement`) and [#10](https://github.com/dwsinger/Marshall/issues/10) (pedestrian crosswalks, `enhancement`)
 
 [#4](https://github.com/dwsinger/Marshall/issues/4) High vehicle speed is a key safety issue; large trucks have been seen going up to 60 mph by Marshall in the mornings and during the day. See [#7](https://github.com/dwsinger/Marshall/issues/7) (visual rumble strips) and [#12](https://github.com/dwsinger/Marshall/issues/12) (traffic calming)
 
 [#5](https://github.com/dwsinger/Marshall/issues/5) Improve the white-line edge-striping so that it's visible. In some parts (e.g. past Hog Island parking) it has worn away completely. `maintenance`
 
-[#6](https://github.com/dwsinger/Marshall/issues/6) Replace the missing LED display 'your speed' as you approach the Marshall-Petaluma (MP) road junction from the north.
+[#6](https://github.com/dwsinger/Marshall/issues/6) Replace the missing LED display 'your speed' as you approach the Marshall-Petaluma (MP) road junction from the north. `maintenance`
 
 ## Action the community is taking
 
