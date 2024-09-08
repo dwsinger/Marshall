@@ -29,8 +29,6 @@ Specific concerns (click on an issue number for more detail and any followup):
 
 [#4](https://github.com/dwsinger/Marshall/issues/4) High vehicle speed is a key safety issue; large trucks have been seen going up to 60 mph by Marshall in the mornings and during the day. See [#7](https://github.com/dwsinger/Marshall/issues/7) (visual rumble strips) and [#12](https://github.com/dwsinger/Marshall/issues/12) (traffic calming)
 
-[#5](https://github.com/dwsinger/Marshall/issues/5) Improve the white-line edge-striping so that it's visible. In some parts (e.g. past Hog Island parking) it has worn away completely. `maintenance`
-
 [#6](https://github.com/dwsinger/Marshall/issues/6) Replace the missing LED display 'your speed' as you approach the Marshall-Petaluma (MP) road junction from the north. `maintenance`
 
 ## Action the community is taking
@@ -66,6 +64,10 @@ Specific concerns (click on an issue number for more detail and any followup):
    * The [Manual of Traffic Signs W16-series](http://www.trafficsign.us/w16.html) for W16-2ap
 
    ![Caltrans sign improvement plan](https://github.com/dwsinger/Marshall/blob/main/Proposed_Sign_Improvement_Plan.jpg)
+
+## Addressed issues, closed
+
+[#5](https://github.com/dwsinger/Marshall/issues/5) Improve the white-line edge-striping so that it's visible. In some parts (e.g. past Hog Island parking) it has worn away completely. `maintenance`
 
 ## Resources
 
