@@ -69,7 +69,7 @@ Specific concerns (click on an issue number for more detail and any followup):
 
 [#5](https://github.com/dwsinger/Marshall/issues/5) Improve the white-line edge-striping so that it's visible. In some parts (e.g. past Hog Island parking) it has worn away completely. `maintenance`
 
-## Resources
+## Road planning Resources
 
 The proposed sign improvement plan is [uploaded](https://github.com/dwsinger/Marshall/blob/main/Proposed%20Sign%20Improvement%20Plan.pdf) in PDF form.
 
@@ -82,3 +82,13 @@ Some example documents on street planning and traffic calming:
 * [Traffic Calming for High-Speed Rural Roadways](https://www.lrrb.org/pdf/TRS0801.pdf)
 
 * [Rural community traffic calming](https://www.ca-ilg.org/sites/main/files/file-attachments/fhwa_traffic_calming_on_main_roads_through_rural_communities.pdf)
+
+## Road status Resources
+
+* Google [Maps](https://maps.app.goo.gl/WzaFqCjFJ4jBrqQ98)
+* Marin [Emergency](https://emergency.marincounty.gov/)
+* Caltrans [Road conditions for CA-1](https://roads.dot.ca.gov/roadscell.php?roadnumber=1)
+* Sonoma road [closures](https://roadclosures-sonomacounty.hub.arcgis.com/)
+* Apple [Maps](https://maps.apple.com/?ll=38.232225,-122.902544&spn=0.037013,0.062545&t=d)
+
+
